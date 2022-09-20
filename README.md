@@ -7,4 +7,4 @@
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![image of website](week-5-challenge/assets/screenshot.JPG)
+![image of website](/assets/screenshot.JPG)
